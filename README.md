@@ -1,6 +1,6 @@
-this To Do List 
+this To-Do List 
 steps to use
-First register yourself In website
+First, register yourself On website
 Then login after registration 
 Then you can create your task
 After Completing your task you can remove that task
